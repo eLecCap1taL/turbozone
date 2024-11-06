@@ -1,0 +1,1 @@
+$return run data get storage turbozone:turbozone.auth db.userpwd.$(user)

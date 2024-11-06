@@ -1,0 +1,1 @@
+$tellraw @s [{"text":"[TurboZone] ","color":"gold"},{"text":"$(text)","color":"$(color)","bold":true}]

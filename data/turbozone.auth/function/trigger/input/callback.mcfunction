@@ -1,0 +1,1 @@
+$function turbozone.auth:trigger/input/callback_pid with storage turbozone:turbozone.auth input.user.$(pid)
